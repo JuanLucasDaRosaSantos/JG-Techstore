@@ -1,0 +1,837 @@
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="4" data-celllook="69905">
+<p><strong><span data-contrast="none">Clientes</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Obrigat&oacute;rio</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_cliente</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">C&oacute;digo do cliente</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">nome_cliente</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Nome do cliente</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(150)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">cpf_cnpj</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">CPF ou CNPJ</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">CHAR(14)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">email</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">E-mail do cliente</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(255)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">telefone_contato</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Telefone para contato</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">CHAR(11)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">N&atilde;o</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">data_registro</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Data de cadastro</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">DATETIME</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;335559739&quot;:160}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="3" data-celllook="69905">
+<p><strong><span data-contrast="none">Produto</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_produto</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">C&oacute;digo do produto</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">nome_produto</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Nome do produto</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(150)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">descricao_prod</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Descri&ccedil;&atilde;o do produto</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">TEXT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">preco_unitario</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Valor unit&aacute;rio</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">DECIMAL(12,2)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">saldo_estoque</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Quantidade em estoque</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_categoria</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Categoria vinculada</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_fornecedor</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Fornecedor vinculado</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;335559739&quot;:160}">&nbsp;</span></p>
+<p><span data-ccp-props="{}">&nbsp;</span></p>
+<p><span data-ccp-props="{&quot;335559739&quot;:160}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="4" data-celllook="69905">
+<p><strong><span data-contrast="none">Vendedor</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Obrigat&oacute;rio</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_vendedor</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Identificador &uacute;nico do vendedor</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">nome_vendedor</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Nome completo do vendedor</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(150)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">email</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">E-mail corporativo do vendedor</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(255)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">telefone</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Telefone do vendedor</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">CHAR(11)</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">N&atilde;o</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;335559739&quot;:160}">&nbsp;</span></p>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:84}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="4" data-celllook="69905">
+<p><strong><span data-contrast="none">Fornecedor</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Obrigat&oacute;rio</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_fornecedor</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Identificador &uacute;nico do fornecedor</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">razao_social</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Raz&atilde;o social da empresa fornecedora</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(200)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">nome_fantasia</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Nome fantasia da empresa</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(150)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">cnpj_fornecedor</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">CNPJ do fornecedor</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">CHAR(14)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">telefone_comercial</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Telefone comercial</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">CHAR(11)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">N&atilde;o</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">email_contato</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">E-mail de contato</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(255)</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">N&atilde;o</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;335559739&quot;:240}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="4" data-celllook="69905">
+<p><strong><span data-contrast="none">Categoria</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Obrigat&oacute;rio</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_categoria</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Identificador &uacute;nico da categoria</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">nome_categoria</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Nome da categoria</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(100)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">descricao_categoria</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Descri&ccedil;&atilde;o da categoria</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(500)</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">N&atilde;o</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;335559739&quot;:240}">&nbsp;</span></p>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:84}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="4" data-celllook="69905">
+<p><strong><span data-contrast="none">Pedido</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Obrigat&oacute;rio</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_pedido</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Identificador &uacute;nico do pedido</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">data_emissao</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Data de emiss&atilde;o do pedido</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">DATETIME</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">valor_total</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Valor total do pedido</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">DECIMAL(12,2)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">status_pedido</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Situa&ccedil;&atilde;o atual do pedido</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(30)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_cliente</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Cliente respons&aacute;vel pelo pedido</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_vendedor</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Vendedor respons&aacute;vel pelo pedido</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;335559739&quot;:240}">&nbsp;</span></p>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:84}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="4" data-celllook="69905">
+<p><strong><span data-contrast="none">Item_pedido</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Obrigat&oacute;rio</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_item_pedido</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Identificador &uacute;nico do item</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_pedido</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Pedido relacionado ao item</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_produto</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Produto relacionado ao item</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">quantidade_item</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Quantidade do produto no pedido</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">preco_aplicado</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Pre&ccedil;o unit&aacute;rio aplicado na venda</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">DECIMAL(12,2)</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;335559739&quot;:240}">&nbsp;</span></p>
+<p><span data-contrast="none">&nbsp;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:84}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td colspan="4" data-celllook="69905">
+<p><strong><span data-contrast="none">Pagamento</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Campo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Descri&ccedil;&atilde;o</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Tipo</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Obrigat&oacute;rio</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_pagamento</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Identificador &uacute;nico do pagamento</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">data_pagamento</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Data de realiza&ccedil;&atilde;o do pagamento</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">DATETIME</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">valor_pago</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Valor pago pelo cliente</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">DECIMAL(12,2)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">forma_pagamento</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">M&eacute;todo utilizado para pagamento</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(50)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">status_pagamento</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Situa&ccedil;&atilde;o do pagamento</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">VARCHAR(30)</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">id_pedido</span></strong><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Pedido associado ao pagamento</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">INT</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Sim</span><span data-ccp-props="{&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span data-ccp-props="{}">&nbsp;</span></p>
+<p><strong><span data-contrast="none">LEGENDAS</span></strong><span data-ccp-props="{&quot;134245418&quot;:true,&quot;335559738&quot;:200,&quot;335559739&quot;:120}">&nbsp;</span></p>
+<table data-tablestyle="MsoNormalTable" data-tablelook="1184">
+<tbody>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Termo</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Significado</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">PK</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Primary Key (Chave Prim&aacute;ria)</span><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><strong><span data-contrast="none">FK</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+<td data-celllook="4369">
+<p><span data-contrast="none">Foreign Key (Chave Estrangeira)</span><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">AUTO_INCREMENT</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Valor gerado automaticamente pelo MySQL</span><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><strong><span data-contrast="none">UNIQUE</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+<td data-celllook="4369">
+<p><span data-contrast="none">N&atilde;o permite valores duplicados</span><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">NOT NULL</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+<td data-celllook="69905">
+<p><span data-contrast="none">Campo obrigat&oacute;rio</span><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><strong><span data-contrast="none">DEFAULT</span></strong><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+<td data-celllook="4369">
+<p><span data-contrast="none">Valor padr&atilde;o atribu&iacute;do automaticamente</span><span data-ccp-props="{&quot;335559739&quot;:0}">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
